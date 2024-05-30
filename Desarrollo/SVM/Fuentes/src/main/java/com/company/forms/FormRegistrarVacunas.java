@@ -20,6 +20,8 @@ int xMouse;int yMouse;
         iniContent();
 
     }
+
+    
   private void iniStyle(){
         lblMensaje.putClientProperty( "FlatLaf.styleClass", "font: 14$light.font" );
         lblMensaje.setForeground(Color.black);
